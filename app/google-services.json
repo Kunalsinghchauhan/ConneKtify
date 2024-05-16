@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072770219096",
+    "project_id": "connektify",
+    "storage_bucket": "connektify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072770219096:android:ebfdbe641be4f756bfde2d",
+        "android_client_info": {
+          "package_name": "com.ksc.connektify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkACIg1RAxlO9hYPwqd5KA04dc05e_UvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
